@@ -78,11 +78,11 @@ button:hover {
 
 .experience .grid {
   max-width: 900px;
-  margin: 0 auto; /* Centra la sección en la página */
+  margin: 0 auto;
 }
 
 .experience .p-4 {
-  border-left: 5px solid #ff9800; /* Borde lateral decorativo */
+  border-left: 5px solid #ff9800;
   background: rgba(255, 255, 255, 0.9);
   color: #000;
 }
